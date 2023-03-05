@@ -1,0 +1,31 @@
+{
+    "forms": [
+        {
+            "name": "Employee Information Form",
+            "search_terms": ["new", "employee", "information"],
+            "link": "/home/danny/Dropbox/VS CODE Tests/chatbotV01/new employee eNAF"
+
+
+        },
+        {
+            "name": "Time Off Request Form",
+            "search_terms": ["time", "off", "request"],
+            "link": "https://example.com/time-off-request-form.pdf"
+        },
+        {
+            "name": "Performance Review Form",
+            "search_terms": ["performance", "review"],
+            "link": "https://example.com/performance-review-form.pdf"
+        },
+        {
+            "name": "New Employee Onboarding Form",
+            "search_terms": ["new", "employee", "onboarding"],
+            "link": "https://example.com/new-employee-onboarding-form.pdf"
+        },
+        {
+            "name": "Employee Termination Form",
+            "search_terms": ["employee", "termination"],
+            "link": "https://example.com/employee-termination-form.pdf"
+        }
+    ]
+}
